@@ -1,4 +1,4 @@
-# productivity_app_androdi_data_binding
+# productivity_app_android_data_binding
 
 Productivity (Todo) android app using MVVM architecture pattern, Room database library and Data Binding
 with delete on swipe left functionality
